@@ -1,0 +1,2 @@
+# LiliBot
+LiliBot for Discord
